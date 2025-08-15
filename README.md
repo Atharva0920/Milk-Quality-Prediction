@@ -23,7 +23,7 @@ This project integrates **Random Forest** and **SVM** models with **stacking (Lo
 
 **Frontend**
 - React
-- Tailwind CSS (if used)
+- Tailwind CSS
 - Axios (for API calls)
 
 **Backend**
